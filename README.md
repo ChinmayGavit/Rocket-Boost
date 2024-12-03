@@ -14,4 +14,4 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RocketBoostAdventure.git
+   git clone https://github.com/ChinmayGavit/Rocket-Boost.git
